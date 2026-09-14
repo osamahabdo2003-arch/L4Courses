@@ -21,7 +21,7 @@
 
 ### 1. واجهة النظام الرئيسية
 <p align="center">
-  <img width="100%" alt="Course Editoer Interface" src="https://github.com/user-attachments/assets/d251d5ec-d895-4e95-a1b0-f75b6439" />
+  <img width="100%" alt="Course Editoer Interface" src="[https://github.com/user-attachments/assets/d251d5ec-d895-4e95-a1b0-f75b6439](https://github.com/user-attachments/assets/d251d5ec-d895-4e95-a416-a1b0f75b6439)" />
 </p>
 
 ### 2. لوحة تحكم مطور الويب (Web Developer Dashboard)
